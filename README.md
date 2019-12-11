@@ -9,3 +9,8 @@ Extract the files
 Run the executable 
 Read the instructions 
 Start zombsroyale.io (preferrably the client) 
+Join a match 
+Hold down LShift to auto-lock the mouse onto nearly every player(NoSkins are always detected, many others are also detected. Some skins will not be recognized as players)
+
+Make sure not to use this in areas of the map where there are lighting changes(while in the gas or in Haunted Hallows) 
+This works best at close range. Inertia prediction is not yet implemented. 
