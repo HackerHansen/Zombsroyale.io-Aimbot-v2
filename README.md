@@ -2,21 +2,21 @@
 This is a zombsroyale.io aimbot written completely in autohotkey. 
 It is still in beta, so some features are not yet present. Aimbot works best at close range; it becomes less effective at long range against moving targets. 
 
- ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
+## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
 
 
-To get EXPERIMENTAL ACCESS, Go to https://patreon.com/HackerHansen 
+### To get EXPERIMENTAL ACCESS, Go to https://patreon.com/HackerHansen 
 
-Experimental builds have extra features. 
+Experimental builds have extra features, including auto open crates. 
 
-DISCORD: 
+#### DISCORD: 
 https://discord.gg/Vwxsx3k  
 
 
-VIDEO:  
+##### VIDEO:  
 The official video is here: https://www.youtube.com/watch?v=dxTx09CTmoU
 
-INSTRUCTIONS: 
+###### INSTRUCTIONS: 
 Download aimbot.zip 
 Extract the files 
 Run the executable 
