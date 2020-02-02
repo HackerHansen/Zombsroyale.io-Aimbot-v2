@@ -1,6 +1,6 @@
 # Zombsroyale.io-Aimbot-BETA
 This is a zombsroyale.io aimbot written completely in autohotkey. 
-It is still in beta, so some features are not yet present. Aimbot works best at close range; it becomes less effective at long range against moving targets. 
+It is still in beta, so some features are not yet present. Aimbot works best at close range; it becomes less effective at long range against moving targets unless player prediction is enabled. This aimbot is not recommended for RPGs or snipers. 
 
 ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
 
