@@ -5,14 +5,6 @@ It is still in beta, so some features are not yet present. Aimbot works best at 
 ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
 
 
-#### To get EXPERIMENTAL ACCESS, Go to https://patreon.com/HackerHansen 
-
-Experimental builds have extra features, including auto open crates. 
-
-#### DISCORD: 
-https://discord.gg/Vwxsx3k  
-
-
 ##### VIDEO:  
 The official video is here: https://www.youtube.com/watch?v=dxTx09CTmoU
 
