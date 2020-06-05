@@ -18,4 +18,4 @@ Join a match
 Hold down LShift to auto-lock the mouse onto nearly every player(NoSkins are always detected, many others are also detected. Some skins will not be recognized as players)
 
 Make sure not to use this in areas of the map where there are lighting changes(while in the gas or in Haunted Hallows) 
-This works best at close range. Inertia prediction is implemented but not complete. 
+This works best at close range. Inertia prediction is implemented but not complete. It's a bit buggy at the moment. 
