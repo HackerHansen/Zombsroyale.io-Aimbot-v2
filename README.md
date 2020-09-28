@@ -4,7 +4,7 @@ It is still in beta, so some features are not yet present. Aimbot works best at 
 
 ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
 
-### **WARNING: People have gotten banned for using this. You may need to rename the exe to avoid detection.** 
+# **WARNING: People have gotten banned for using this. You may need to rename the exe to avoid detection.** 
 
 ##### VIDEO:  
 The official video is here: https://www.youtube.com/watch?v=dxTx09CTmoU
