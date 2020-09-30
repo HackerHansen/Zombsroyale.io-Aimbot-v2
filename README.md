@@ -4,7 +4,7 @@ It is still in beta, so some features are not yet present. Aimbot works best at 
 
 ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/channel/UCQ8Pe8-JU9GSesRc8-iK6ZA**
 
-## **WARNING: As zombsroyale has added a banning system (finally), people have gotten banned for using this. You may get banned if you use this aimbot. ** 
+## **WARNING: As zombsroyale has added a banning system (finally), people have gotten banned for using this. You may get banned if you use this aimbot.** 
 
 ##### VIDEO:  
 The official video is here: https://www.youtube.com/watch?v=dxTx09CTmoU
