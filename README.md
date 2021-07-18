@@ -2,6 +2,8 @@
 This is a zombsroyale.io aimbot written completely in autohotkey. 
 It is still in beta, so some features are not yet present. Aimbot works best at close range; it becomes less effective at long range against moving targets unless player prediction is enabled. This aimbot is not recommended for RPGs or snipers. 
 
+This aimbot is also pretty bad, it was mainly just an experimental program I made a while ago lol 
+
 ## **OFFICIAL YOUTUBE CHANNEL: HACKERHANSEN https://www.youtube.com/HackerHansen**
 
 ## **WARNING: As zombsroyale has added a banning system (finally), people have gotten banned for using this. You may get banned if you use this aimbot. Renaming the exe may help.** 
