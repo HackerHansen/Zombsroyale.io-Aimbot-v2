@@ -11,7 +11,7 @@ This aimbot is also pretty bad, it was mainly just an experimental program I mad
 ##### VIDEO:  
 The official video is here: https://www.youtube.com/watch?v=dxTx09CTmoU
 
-##### NOTE: To close the cheat, just press quit or press `. If these methods don't work, use task manager, use taskkill, reboot, etc. 
+### NOTE: To close the cheat, just press quit or press `. If these methods don't work, use task manager, use taskkill, reboot, etc. 
 
 ###### INSTRUCTIONS: 
 Download aimbot.zip 
